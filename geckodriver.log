@@ -1,0 +1,649 @@
+1621811772463	geckodriver	INFO	Listening on 127.0.0.1:34433
+1621811773472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehWWwq5"
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1621811780159	Marionette	INFO	Listening on port 37711
+1621811780263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621811788020	Marionette	INFO	Stopped listening on port 37711
+1621811804682	geckodriver	INFO	Listening on 127.0.0.1:38131
+1621811805692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBhSskp"
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1621811808662	Marionette	INFO	Listening on port 37367
+1621811808723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621811836430	Marionette	INFO	Stopped listening on port 37367
+1621811844417	geckodriver	INFO	Listening on 127.0.0.1:46747
+1621811845424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqDwFJl"
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1621811847964	Marionette	INFO	Listening on port 39791
+1621811848039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621811854330	Marionette	INFO	Stopped listening on port 39791
+1621811880826	geckodriver	INFO	Listening on 127.0.0.1:60927
+1621811880835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiUZSPz"
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1621811883638	Marionette	INFO	Listening on port 36153
+1621811883658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621811886726	Marionette	INFO	Stopped listening on port 36153
+1621811920868	geckodriver	INFO	Listening on 127.0.0.1:53211
+1621811921877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHfOnFf"
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1621811924701	Marionette	INFO	Listening on port 42005
+1621811924800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621811935808	Marionette	INFO	Stopped listening on port 42005
+1621811971115	geckodriver	INFO	Listening on 127.0.0.1:57783
+1621811972121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRISaLn"
+1621811975442	Marionette	INFO	Listening on port 46443
+1621811975545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621811985661	geckodriver	INFO	Listening on 127.0.0.1:49607
+1621811986667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Myl1w"
+1621811989301	Marionette	INFO	Stopped listening on port 46443
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1621811990350	Marionette	INFO	Listening on port 34003
+1621811990400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621811995214	Marionette	INFO	Stopped listening on port 34003
+1621812113589	geckodriver	INFO	Listening on 127.0.0.1:57711
+1621812114596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqLE5CD"
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1621812116987	Marionette	INFO	Listening on port 43191
+1621812117011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621812122726	Marionette	INFO	Stopped listening on port 43191
+1621812385460	geckodriver	INFO	Listening on 127.0.0.1:37165
+1621812386538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNyCN2L"
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1621812401575	Marionette	INFO	Listening on port 38563
+1621812401601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621812413695	Marionette	INFO	Stopped listening on port 38563
+1621812599231	geckodriver	INFO	Listening on 127.0.0.1:38375
+1621812600241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZaRw00"
+1621812602767	Marionette	INFO	Listening on port 42129
+1621812602867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621812619837	geckodriver	INFO	Listening on 127.0.0.1:49907
+1621812620845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewKqnqt"
+1621812621120	Marionette	INFO	Stopped listening on port 42129
+1621812623760	Marionette	INFO	Listening on port 37669
+1621812623767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621812653892	Marionette	INFO	Stopped listening on port 37669
+1621967856373	geckodriver	INFO	Listening on 127.0.0.1:47081
+1621967857303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqfkkbw"
+1621967862076	Marionette	INFO	Listening on port 44545
+1621967862117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621967867601	Marionette	INFO	Stopped listening on port 44545
+1621967874118	geckodriver	INFO	Listening on 127.0.0.1:40345
+1621967874127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGDKDVK"
+1621967876954	Marionette	INFO	Listening on port 33975
+1621967877104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621967922089	Marionette	INFO	Stopped listening on port 33975
+1621967944672	geckodriver	INFO	Listening on 127.0.0.1:48403
+1621967944703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVZqJpP"
+1621967947148	Marionette	INFO	Listening on port 34877
+1621967947223	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1621968125222	Marionette	INFO	Stopped listening on port 34877
+1622029797272	geckodriver	INFO	Listening on 127.0.0.1:46833
+1622029798201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0oHe6A"
+1622029810491	Marionette	INFO	Listening on port 45345
+1622029810537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622029827677	geckodriver	INFO	Listening on 127.0.0.1:48823
+1622029828685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3mZlBr"
+1622029830481	Marionette	INFO	Stopped listening on port 45345
+1622029831560	Marionette	INFO	Listening on port 43799
+1622029831604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622029896279	Marionette	INFO	Stopped listening on port 43799
+1622029898328	geckodriver	INFO	Listening on 127.0.0.1:33823
+1622029899336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB9Mp74"
+1622029902157	Marionette	INFO	Listening on port 33089
+1622029902258	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1622029940946	Marionette	INFO	Stopped listening on port 33089
+1622029953136	geckodriver	INFO	Listening on 127.0.0.1:46791
+1622029954145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekbYGXp"
+1622029957064	Marionette	INFO	Listening on port 37033
+1622029957085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622029985548	Marionette	INFO	Stopped listening on port 37033
+1622030375975	geckodriver	INFO	Listening on 127.0.0.1:51659
+1622030376983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemRDSAW"
+1622030379525	Marionette	INFO	Listening on port 38697
+1622030379604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622030393574	geckodriver	INFO	Listening on 127.0.0.1:51477
+1622030394581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqE6fzq"
+1622030397602	Marionette	INFO	Stopped listening on port 38697
+1622030397724	Marionette	INFO	Listening on port 40801
+1622030397810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622030415434	Marionette	INFO	Stopped listening on port 40801
+1622032531543	geckodriver	INFO	Listening on 127.0.0.1:59579
+1622032531554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBAklBL"
+1622032534305	Marionette	INFO	Listening on port 33439
+1622032534406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622032559109	Marionette	INFO	Stopped listening on port 33439
+1622032562165	geckodriver	INFO	Listening on 127.0.0.1:56141
+1622032563173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewcxRvK"
+1622032565649	Marionette	INFO	Listening on port 36501
+1622032565693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622032575854	Marionette	INFO	Stopped listening on port 36501
+1622032970969	geckodriver	INFO	Listening on 127.0.0.1:52913
+1622032971977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1MsgED"
+*** You are running in headless mode.
+1622032974220	Marionette	INFO	Listening on port 36185
+1622032974293	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1622035389990	geckodriver	INFO	Listening on 127.0.0.1:35891
+1622035390019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileovc8cO"
+1622035394043	Marionette	INFO	Listening on port 38937
+1622035394083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622035484574	Marionette	INFO	Stopped listening on port 38937
+1622035491937	geckodriver	INFO	Listening on 127.0.0.1:41321
+1622035491948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileATLmd9"
+1622035495882	Marionette	INFO	Listening on port 32947
+1622035505753	Marionette	INFO	Stopped listening on port 32947
+1622035890118	geckodriver	INFO	Listening on 127.0.0.1:39779
+1622035890127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerhZtAj"
+1622035893653	Marionette	INFO	Listening on port 46459
+1622035893751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622035907280	Marionette	INFO	Stopped listening on port 46459
+1622035918455	geckodriver	INFO	Listening on 127.0.0.1:49233
+1622035919463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT1ptAW"
+1622035922747	Marionette	INFO	Listening on port 43291
+1622035922815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1622036073371	Marionette	INFO	Stopped listening on port 43291
+1622036092119	geckodriver	INFO	Listening on 127.0.0.1:44163
+1622036093125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexuwR3P"
+1622036096078	Marionette	INFO	Listening on port 37785
+1622036096147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ipv4info.com/ip-address/s10bf22/81.46.243.216.html/u-tad.com/#_, line 454: TypeError: document.getElementById(...) is null
+1622036207538	Marionette	INFO	Stopped listening on port 37785
+1622036209061	geckodriver	INFO	Listening on 127.0.0.1:49279
+1622036209073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqQ1rmc"
+1622036212298	Marionette	INFO	Listening on port 38683
+1622036212398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ipv4info.com/, line 398: TypeError: document.getElementById(...) is null
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1622036226509	Marionette	INFO	Stopped listening on port 38683
+1622036226835	geckodriver	INFO	Listening on 127.0.0.1:43955
+1622036226844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen9mFUv"
+1622036230006	Marionette	INFO	Listening on port 34789
+1622036230067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622036238271	Marionette	INFO	Stopped listening on port 34789
+1622036246541	geckodriver	INFO	Listening on 127.0.0.1:51067
+1622036246550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesns2f8"
+1622036250091	Marionette	INFO	Listening on port 33121
+1622036250198	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1622036364726	geckodriver	INFO	Listening on 127.0.0.1:52525
+1622036364734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemphPjp"
+1622036364928	Marionette	INFO	Stopped listening on port 33121
+1622036367975	Marionette	INFO	Listening on port 45569
+1622036368067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622036476662	Marionette	INFO	Stopped listening on port 45569
+1622036641198	geckodriver	INFO	Listening on 127.0.0.1:58031
+1622036642204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevngaNi"
+1622036644961	Marionette	INFO	Listening on port 44415
+1622036645026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622037076924	geckodriver	INFO	Listening on 127.0.0.1:48321
+1622037077932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6eocMR"
+1622037084547	Marionette	INFO	Listening on port 46531
+1622037084637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622037089945	Marionette	INFO	Stopped listening on port 44415
+1622037180926	Marionette	INFO	Stopped listening on port 46531
+1622037262293	geckodriver	INFO	Listening on 127.0.0.1:54129
+1622037262301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0xTPzc"
+1622037265233	Marionette	INFO	Listening on port 34623
+1622037265325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622037285814	Marionette	INFO	Stopped listening on port 34623
+1622037288558	geckodriver	INFO	Listening on 127.0.0.1:35807
+1622037289566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenrAMFH"
+1622037292131	Marionette	INFO	Listening on port 39391
+1622037292184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622037342235	Marionette	INFO	Stopped listening on port 39391
+1622037451038	geckodriver	INFO	Listening on 127.0.0.1:40531
+1622037451045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewszhbY"
+1622037453685	Marionette	INFO	Listening on port 43251
+1622037453765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9975046656417382&output=html&h=90&slotname=3449306150&adk=4001440126&adf=2778949995&pi=t.ma~as.3449306150&w=728&lmt=1622037480&psa=1&format=728x90&url=http%3A%2F%2Fipv4info.com%2F&flash=0&wgl=1&dt=1622037479931&bpp=18&bdt=831&idt=862&shv=r20210517&cbv=%2Fr20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3D907392fbd763e885-2267db204bc800b2%3AT%3D1622037460%3ART%3D1622037460%3AS%3DALNI_MY-evxY0f5dJd4-YfANSw56eHfNEg&correlator=8151399372115&frm=20&pv=2&ga_vid=636998954.1622037481&ga_sid=1622037481&ga_hid=1174889043&ga_fc=0&u_tz=60&u_his=2&u_java=0&u_h=1080&u_w=1920&u_ah=1030&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=276&ady=555&biw=1280&bih=822&scr_x=0&scr_y=0&oid=3&pvsid=2319076407570844&pem=342&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C1280%2C927%2C1280%2C822&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=0&bc=21&ifi=1&uci=a!1&xpc=Cip1p4BF7F&p=http%3A//ipv4info.com&dtd=896, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/html/r20210517/r20190131/zrt_lookup.html, line 1: ReferenceError: buildAttribution is not defined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1622038935712	Marionette	INFO	Stopped listening on port 43251
+1622038971451	geckodriver	INFO	Listening on 127.0.0.1:51223
+1622038972460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYBCdlu"
+1622038974886	Marionette	INFO	Listening on port 46385
+1622038974983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622039022299	Marionette	INFO	Stopped listening on port 46385
+1622039045039	geckodriver	INFO	Listening on 127.0.0.1:49775
+1622039045046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez4yRWO"
+1622039047395	Marionette	INFO	Listening on port 39583
+1622039047459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622039160118	geckodriver	INFO	Listening on 127.0.0.1:42123
+1622039160125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH4Hkok"
+1622039164618	Marionette	INFO	Listening on port 36019
+1622039164638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622039345455	geckodriver	INFO	Listening on 127.0.0.1:43949
+1622039345461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileakG1cy"
+1622039352382	Marionette	INFO	Listening on port 36655
+1622039352405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622039358006	Marionette	INFO	Stopped listening on port 36655
+1622039647881	geckodriver	INFO	Listening on 127.0.0.1:46787
+1622039647887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3KxAOA"
+1622039652726	Marionette	INFO	Listening on port 36447
+1622039652768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622040304035	Marionette	INFO	Stopped listening on port 36019
+1622040561962	Marionette	INFO	Stopped listening on port 39583
+1622046391110	Marionette	INFO	Stopped listening on port 36447
+1622048338124	geckodriver	INFO	Listening on 127.0.0.1:38671
+1622048339040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoqIyqu"
+1622048351271	Marionette	INFO	Listening on port 44377
+1622048351353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1622048370003	Marionette	INFO	Stopped listening on port 44377
+JavaScript error: , line 0: uncaught exception: undefined
+1622048548851	geckodriver	INFO	Listening on 127.0.0.1:55095
+1622048548859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilednRkuV"
+1622048552701	Marionette	INFO	Listening on port 40189
+1622048552787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622048565449	Marionette	INFO	Stopped listening on port 40189
+JavaScript error: , line 0: uncaught exception: undefined
+1622048713322	geckodriver	INFO	Listening on 127.0.0.1:40929
+1622048713334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefaiZNN"
+*** You are running in headless mode.
+1622048715949	Marionette	INFO	Listening on port 46387
+1622048715957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622048729926	Marionette	INFO	Stopped listening on port 46387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622049383365	geckodriver	INFO	Listening on 127.0.0.1:39875
+1622049383372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRCbAZ5"
+*** You are running in headless mode.
+1622049385998	Marionette	INFO	Listening on port 42541
+1622049386096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622049412007	Marionette	INFO	Stopped listening on port 42541
+1622054532627	geckodriver	INFO	Listening on 127.0.0.1:54555
+1622054533635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaM8HeF"
+*** You are running in headless mode.
+1622054536197	Marionette	INFO	Listening on port 44079
+1622054536249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622054573307	geckodriver	INFO	Listening on 127.0.0.1:59001
+1622054574315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem2WZXX"
+*** You are running in headless mode.
+1622054580185	Marionette	INFO	Listening on port 34959
+1622054580212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622054646504	geckodriver	INFO	Listening on 127.0.0.1:59353
+1622054647514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYhtaHp"
+1622054653214	Marionette	INFO	Listening on port 41583
+1622054653302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622054679881	Marionette	INFO	Stopped listening on port 41583
+1622054712501	geckodriver	INFO	Listening on 127.0.0.1:37235
+1622054713511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiEWamu"
+1622054717279	Marionette	INFO	Listening on port 35283
+1622054717307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1622054728575	Marionette	INFO	Stopped listening on port 35283
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622054769661	geckodriver	INFO	Listening on 127.0.0.1:49981
+1622054770670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8mF5uN"
+*** You are running in headless mode.
+1622054773015	Marionette	INFO	Listening on port 38507
+1622054773096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622054785028	Marionette	INFO	Stopped listening on port 38507
+JavaScript error: , line 0: uncaught exception: undefined
+1622054835545	geckodriver	INFO	Listening on 127.0.0.1:49581
+1622054835553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDAuEti"
+*** You are running in headless mode.
+1622054837940	Marionette	INFO	Listening on port 37001
+1622054837972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622054856422	Marionette	INFO	Stopped listening on port 37001
+1622055215445	geckodriver	INFO	Listening on 127.0.0.1:55571
+1622055216453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaaaupd"
+*** You are running in headless mode.
+1622055219197	Marionette	INFO	Listening on port 46691
+1622055219271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622055230151	Marionette	INFO	Stopped listening on port 46691
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622056985461	geckodriver	INFO	Listening on 127.0.0.1:39357
+1622056985476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAifMjT"
+*** You are running in headless mode.
+1622056988311	Marionette	INFO	Listening on port 41143
+1622056988336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622057111073	geckodriver	INFO	Listening on 127.0.0.1:53897
+1622057111103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCQqktP"
+*** You are running in headless mode.
+1622057118357	Marionette	INFO	Listening on port 34977
+1622057118457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CWq9ndk-1oeaRFSw5-gDkkYul7vu_3Fd6OpFoFd0cNM.js line 1 > eval line 3781 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CWq9ndk-1oeaRFSw5-gDkkYul7vu_3Fd6OpFoFd0cNM.js line 1 > eval line 3781 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: undefined
+1622057130650	Marionette	INFO	Stopped listening on port 34977
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622058539135	geckodriver	INFO	Listening on 127.0.0.1:57045
+1622058539144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaq4xkL"
+*** You are running in headless mode.
+1622058541805	Marionette	INFO	Listening on port 38957
+1622058541895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622058553393	Marionette	INFO	Stopped listening on port 38957
+JavaScript error: , line 0: uncaught exception: undefined
+1622060109935	geckodriver	INFO	Listening on 127.0.0.1:45797
+1622060110945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile376N48"
+*** You are running in headless mode.
+1622060113662	Marionette	INFO	Listening on port 44401
+1622060113683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20210517/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+1622060133518	Marionette	INFO	Stopped listening on port 44401
+1622060415736	geckodriver	INFO	Listening on 127.0.0.1:51935
+1622060415746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileri2vJK"
+*** You are running in headless mode.
+1622060418508	Marionette	INFO	Listening on port 37765
+1622060418575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: undefined
+1622060429832	Marionette	INFO	Stopped listening on port 37765
+JavaScript error: , line 0: uncaught exception: undefined
+1622060918715	geckodriver	INFO	Listening on 127.0.0.1:34617
+1622060919722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegy89uT"
+*** You are running in headless mode.
+1622060922310	Marionette	INFO	Listening on port 40491
+1622060922338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622061210594	geckodriver	INFO	Listening on 127.0.0.1:59175
+1622061211605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCl6HEb"
+*** You are running in headless mode.
+1622061216494	Marionette	INFO	Listening on port 46657
+1622061216559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20210517/r20110914/client/qs_click_protection_fy2019.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+1622061234461	Marionette	INFO	Stopped listening on port 46657
+JavaScript error: , line 0: uncaught exception: undefined
+1622061645148	geckodriver	INFO	Listening on 127.0.0.1:53503
+1622061646161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenkmYcm"
+*** You are running in headless mode.
+1622061651232	Marionette	INFO	Listening on port 35973
+1622061651321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: undefined
+1622061678224	Marionette	INFO	Stopped listening on port 35973
+1622062268875	geckodriver	INFO	Listening on 127.0.0.1:56779
+1622062268888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMcJx6n"
+*** You are running in headless mode.
+1622062271363	Marionette	INFO	Listening on port 39755
+1622062271414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622062299924	Marionette	INFO	Stopped listening on port 39755
+1622062784866	geckodriver	INFO	Listening on 127.0.0.1:46669
+1622062784875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenePqn7"
+*** You are running in headless mode.
+1622062787610	Marionette	INFO	Listening on port 36159
+1622062787702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622062808584	Marionette	INFO	Stopped listening on port 36159
+1622063311817	geckodriver	INFO	Listening on 127.0.0.1:35663
+1622063311826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehuqwLp"
+*** You are running in headless mode.
+1622063314542	Marionette	INFO	Listening on port 46731
+1622063314644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622063337621	Marionette	INFO	Stopped listening on port 46731
+1622064816392	geckodriver	INFO	Listening on 127.0.0.1:52507
+1622064816399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE4roa0"
+*** You are running in headless mode.
+1622064819199	Marionette	INFO	Listening on port 38153
+1622064819229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622064834839	Marionette	INFO	Stopped listening on port 38153
+JavaScript error: , line 0: uncaught exception: undefined
+1622065016143	geckodriver	INFO	Listening on 127.0.0.1:35183
+1622065016152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemmwfG7"
+*** You are running in headless mode.
+1622065018695	Marionette	INFO	Listening on port 44037
+1622065018774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622065032471	Marionette	INFO	Stopped listening on port 44037
+JavaScript error: , line 0: uncaught exception: undefined
+1622065113274	geckodriver	INFO	Listening on 127.0.0.1:36485
+1622065113281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCLkCtE"
+*** You are running in headless mode.
+1622065116027	Marionette	INFO	Listening on port 37965
+1622065116117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622065138369	Marionette	INFO	Stopped listening on port 37965
+1622065302159	geckodriver	INFO	Listening on 127.0.0.1:51163
+1622065302169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNawXMk"
+*** You are running in headless mode.
+1622065304760	Marionette	INFO	Listening on port 38303
+1622065304793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622065322213	Marionette	INFO	Stopped listening on port 38303
+1622065556995	geckodriver	INFO	Listening on 127.0.0.1:46687
+1622065558001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRfFzuk"
+*** You are running in headless mode.
+1622065560472	Marionette	INFO	Listening on port 42145
+1622065560519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622065576214	Marionette	INFO	Stopped listening on port 42145
+JavaScript error: , line 0: uncaught exception: undefined
+1622065926413	geckodriver	INFO	Listening on 127.0.0.1:40107
+1622065927422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6ObqSj"
+*** You are running in headless mode.
+1622065930066	Marionette	INFO	Listening on port 42231
+1622065930139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622065940878	Marionette	INFO	Stopped listening on port 42231
+JavaScript error: , line 0: uncaught exception: undefined
+1622066028503	geckodriver	INFO	Listening on 127.0.0.1:36039
+1622066029512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGw43X2"
+*** You are running in headless mode.
+1622066032227	Marionette	INFO	Listening on port 38885
+1622066032240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622066044966	Marionette	INFO	Stopped listening on port 38885
+1622066211567	geckodriver	INFO	Listening on 127.0.0.1:51031
+1622066211581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeCBwYB"
+*** You are running in headless mode.
+1622066214500	Marionette	INFO	Listening on port 42491
+1622066214598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 109: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: undefined
+1622066223997	Marionette	INFO	Stopped listening on port 42491
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622066281830	geckodriver	INFO	Listening on 127.0.0.1:51275
+1622066282838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE5Q9k8"
+*** You are running in headless mode.
+1622066285523	Marionette	INFO	Listening on port 32817
+1622066285615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622066300039	Marionette	INFO	Stopped listening on port 32817
+JavaScript error: , line 0: uncaught exception: undefined
+1622066466338	geckodriver	INFO	Listening on 127.0.0.1:35889
+1622066467348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletKfobm"
+*** You are running in headless mode.
+1622066469867	Marionette	INFO	Listening on port 42115
+1622066469967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622066490405	Marionette	INFO	Stopped listening on port 42115
+1622066592135	geckodriver	INFO	Listening on 127.0.0.1:37681
+1622066592144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNlTyUP"
+*** You are running in headless mode.
+1622066595011	Marionette	INFO	Listening on port 34523
+1622066595066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622066617925	Marionette	INFO	Stopped listening on port 34523
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
